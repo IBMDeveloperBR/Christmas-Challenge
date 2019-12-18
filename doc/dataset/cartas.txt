@@ -1,0 +1,170 @@
+Instruções do Papai Noel: Abaixo se encontram as cartas que recebi durante as últimas semanas,
+todas elas forma colocadas juntas, ou seja, cada linha desse arquivo representa um carta, ouvi dizer
+que um tal de Watson pode me ajudar com essa quest que me toma tanto trabalho, também me disseram
+que a melhor forma de mostrar as cartas para ele é individualmente. Os duendes da TI aqui do polo
+norte me falaram que criar um tal de script para quebrar esse documento em cartas indivuais era fácil,
+então delego esta tarefa para você meu nobre ajudante. Tenha certeza que seu presente será atendido.
+
+Oi Papai Noel, eu sou o Carlos, moro na Rua Jose Dias, 3064 eu iria ficar muito feliz se ganhasse um hotwheels
+
+Papai noel eu sou o Pedro eu moro na estrada da felicidade, número 183 gostaria de pedir para o senhor uma boneca polly
+
+Papai noel eu sou o Sergio eu moro na rua da alvorada, número 2490 gostaria de pedir para o senhor um carrinho
+
+meu endereço é Rua Lopes Machado, n3960 esse ano tirei notas muito boas no colegio, acho que eu merecia ganhar um ponei
+
+Oi papai noel moro na Rua Branco Matos, 300 esse ano tirei notas muito boas no colegio, acho que eu merecia ganhar uma bicicleta
+
+Querido papai noel, eu gostaria de ganhar uma Ferrari eu moro na Avenida Vinte e Nove de Setembro, número 1395
+
+Papai noel eu sou o Eduardo moro na Rua Ipiranga, 2697 esse ano tirei notas muito boas no colegio, acho que eu merecia ganhar um hotwheels
+
+Papai noel, eu moro na Rua Jose Dias, número 576 eu gostaria de ganhar uma Ferrari
+
+Oi papai noel moro na rua lopes machado, 2634 esse natal eu gostaria de ganhar um hotwheels se eu ganhar vou ficar muito muito feliz
+
+Papai noel, eu moro na Rua Jose Dias, número 1495 gostaria de pedir para o senhor uma bicicleta
+
+Querido Papai Noel, meu endereço é Avenida Vinte e Nove de Setembro, n2119 esse ano tirei notas muito boas no colegio, acho que eu merecia ganhar uma bicicleta ou bola
+
+Oi papai noel eu iria ficar muito feliz se ganhasse um tenis moro na avenida brasil, 598
+
+Querido papai noel, como me comportei muito bem esse ano queria ganhar um carrinho moro na Rua Lopes Machado, 3025
+
+Querido papai noel eu quero te pedir por favor um celular eu moro na Rua Diogenes Lima, número 3860
+
+moro na Rua Lopes Machado, 2168 gostaria de pedir para o senhor uma bicicleta
+
+Oi Papai Noel, eu sou a Thais, eu gostaria de ganhar um boneco max steel meu endereço é Estrada da Felicidade, n3258
+
+Papai noel, esse natal eu gostaria de ganhar um boneco max steel se eu ganhar vou ficar muito muito feliz eu moro na Avenida Brasil, número 3896
+
+Oi papai noel moro na Avenida Brasil, 2584 eu iria ficar muito feliz se ganhasse um carrinho
+
+Papai noel eu sou o Samuel meu endereço é Rua da Alvorada, n895 eu quero te pedir por favor um patinete
+
+Oi papai noel como me comportei muito bem esse ano queria ganhar uma Ferrari moro na Avenida Brasil, 1682
+
+Oi Papai Noel, eu sou o Victor, eu moro na Rua Jose Dias, número 912 como me comportei muito bem esse ano queria ganhar um carrinho
+
+Querido papai noel, moro na Rua Diogenes Lima, 3983 eu quero te pedir por favor um ponei
+
+Oi Papai Noel, eu sou o Carlos, eu quero te pedir por favor uma boneca polly moro na Rua Lopes Machado, 46
+
+Papai noel eu sou a Renata como me comportei muito bem esse ano queria ganhar uma bola moro na Rua Jose Dias, 2653
+
+Querido Papai Noel, meu endereço é Rua Jose Dias, n2642 eu quero te pedir por favor uma bicicleta
+
+ola papai noel eu moro na Rua Branco Matos, número 745 esse natal eu gostaria de ganhar uma bicicleta se eu ganhar vou ficar muito muito feliz
+
+Querido papai noel, eu moro na Rua Ipiranga, número 882 gostaria de pedir para o senhor um tenis
+
+Oi Papai Noel, eu sou a Rebeca, meu endereço é rua ipiranga, n3418 ajudei muito papai e mamãe sempre que eles pediram esse ano, queria pedir para o senhor me trazer uma bola no natal seria muito legal
+
+Querido Papai Noel eu iria ficar muito feliz se ganhasse uma Ferrari eu moro na Estrada da Felicidade, número 1152
+
+Querido papai noel, meu endereço é Avenida Vinte e Nove de Setembro, n3477 gostaria de pedir para o senhor uma Ferrari
+
+Querido Papai Noel meu endereço é Rua Jose Dias, n937 gostaria de pedir para o senhor uma boneca barbie
+
+Oi Papai Noel, eu sou a Gabriela, moro na Rua Lopes Machado, 334 eu gostaria de ganhar um tenis
+
+Papai noel, meu endereço é Avenida Vinte e Nove de Setembro, n3103 eu iria ficar muito feliz se ganhasse uma bola
+
+Querido Papai Noel, eu moro na Rua Ipiranga, número 1548 ajudei muito papai e mamãe sempre que eles pediram esse ano, queria pedir para o senhor me trazer um carrinho no natal seria muito legal
+
+Papai noel eu sou o Samuel eu moro na Rua Ipiranga, número 133 eu quero te pedir por favor um computador
+
+Oi Papai Noel, eu sou o Eric, meu endereço é Rua Lopes Machado, n3045 esse natal eu gostaria de ganhar um patinete se eu ganhar vou ficar muito muito feliz
+
+moro na Avenida Brasil, 1507 eu iria ficar muito feliz se ganhasse uma boneca barbie
+
+Querido papai noel, moro na rua branco matos, 3387 ajudei muito papai e mamãe sempre que eles pediram esse ano, queria pedir para o senhor me trazer uma Ferrari no natal seria muito legal
+
+Papai noel, ajudei muito papai e mamãe sempre que eles pediram esse ano, queria pedir para o senhor me trazer uma bola no natal seria muito legal meu endereço é Avenida Brasil, n3079
+
+Papai noel eu sou a Roberta meu endereço é Rua Lopes Machado, n270 eu iria ficar muito feliz se ganhasse um carrinho
+
+Oi Papai Noel, eu sou o Vanderlei, esse ano tirei notas muito boas no colegio, acho que eu merecia ganhar um celular meu endereço é rua diogenes lima, n208
+
+Oi Papai Noel, eu sou Sam, eu moro na Rua da Alvorada, número 1065 eu quero te pedir por favor um boneco max steel
+
+Papai noel, esse natal eu gostaria de ganhar uma bicicleta ou bola se eu ganhar vou ficar muito muito feliz moro na Rua Jose Dias, 2621
+
+Querido papai noel, eu iria ficar muito feliz se ganhasse uma Ferrari eu moro na rua lopes machado, número 603
+
+Querido Papai Noel, moro na rua lopes machado, 1720 eu gostaria de ganhar um computador
+
+Oi papai noel moro na Rua Jose Dias, 2200 esse ano tirei notas muito boas no colegio, acho que eu merecia ganhar um patinete
+
+Querido Papai Noel moro na Estrada da Felicidade, 2427 ajudei muito papai e mamãe sempre que eles pediram esse ano, queria pedir para o senhor me trazer um boneco max steel no natal seria muito legal
+
+Papai noel, moro na Avenida Vinte e Nove de Setembro, 2020 eu gostaria de ganhar um tenis
+
+Oi papai noel moro na Avenida Vinte e Nove de Setembro, 3896 gostaria de pedir para o senhor uma Ferrari
+
+Oi papai noel como me comportei muito bem esse ano queria ganhar um boneco max steel meu endereço é Avenida Vinte e Nove de Setembro, n3544
+
+Querido papai noel, eu moro na Rua Ipiranga, número 154 eu gostaria de ganhar um carrinho
+
+Papai noel eu sou a Erica eu moro na Rua Lopes Machado, número 1075 ajudei muito papai e mamãe sempre que eles pediram esse ano, queria pedir para o senhor me trazer um ponei no natal seria muito legal
+
+Papai noel, eu quero te pedir por favor um celular meu endereço é Rua Ipiranga, n2031
+
+Papai noel eu sou a juju eu moro na Rua Lopes Machado, número 3448 eu iria ficar muito feliz se ganhasse um patinete
+
+Querido papai noel gostaria de pedir para o senhor um tenis moro na Avenida Vinte e Nove de Setembro, 1905
+
+Oi Papai Noel, eu sou o Juan, moro na Estrada da Felicidade, 533 ajudei muito papai e mamãe sempre que eles pediram esse ano, queria pedir para o senhor me trazer um boneco max steel no natal seria muito legal
+
+Querido papai noel, esse natal eu gostaria de ganhar um tenis se eu ganhar vou ficar muito muito feliz moro na Rua Ipiranga, 3018
+
+Papai noel, eu quero te pedir por favor um carrinho moro na Rua Branco Matos, 3263
+
+Oi Papai Noel, eu sou o Eric, eu moro na Avenida Brasil, número 3622 eu quero te pedir por favor um hotwheels
+
+Oi papai noel esse natal eu gostaria de ganhar um celular se eu ganhar vou ficar muito muito feliz eu moro na Rua Ipiranga, número 2533
+
+Oi papai noel gostaria de pedir para o senhor um tenis meu endereço é Rua Diogenes Lima, n1153
+
+Papai noel eu sou o Sergio fui muito legal com meus amiguinhos esse ano, sera que vc poderia me dar um celular eu moro na Avenida Brasil, número 2326
+
+ola papai noel ajudei muito papai e mamãe sempre que eles pediram esse ano, queria pedir para o senhor me trazer um boneco max steel no natal seria muito legal moro na Rua Diogenes Lima, 3691
+
+Oi papai noel meu endereço é Avenida Vinte e Nove de Setembro, n379 como me comportei muito bem esse ano queria ganhar uma bola
+
+Oi papai noel esse natal eu gostaria de ganhar uma bicicleta se eu ganhar vou ficar muito muito feliz eu moro na Avenida Vinte e Nove de Setembro, número 2630
+
+Querido papai noel moro na Rua Ipiranga, 607 eu gostaria de ganhar uma bicicleta ou bola
+
+Querido Papai Noel, moro na Rua Ipiranga, 926 como me comportei muito bem esse ano queria ganhar um celular
+
+Querido Papai Noel moro na estrada da felicidade, 2607 como me comportei muito bem esse ano queria ganhar uma boneca barbie
+
+Oi Papai Noel, eu sou o Julio, eu quero te pedir por favor um celular eu moro na Rua Ipiranga, número 2515
+
+Papai noel eu sou o Claudio eu moro na Rua Jose Dias, número 2930 esse natal eu gostaria de ganhar uma bicicleta ou bola se eu ganhar vou ficar muito muito feliz
+
+Oi papai noel eu moro na Rua Ipiranga, número 1842 eu iria ficar muito feliz se ganhasse um patinete
+
+ajudei muito papai e mamãe sempre que eles pediram esse ano, queria pedir para o senhor me trazer um computador no natal seria muito legal meu endereço é Rua Diogenes Lima, n3387
+
+Oi papai noel como me comportei muito bem esse ano queria ganhar um celular moro na Rua Branco Matos, 3445
+
+Oi Papai Noel, eu sou o Fransisco, moro na Rua Ipiranga, 684 fui muito legal com meus amiguinhos esse ano, sera que vc poderia me dar um celular
+
+Querido papai noel, gostaria de pedir para o senhor uma boneca barbie meu endereço é Rua Diogenes Lima, n3641
+
+Papai noel eu sou a Roberta ajudei muito papai e mamãe sempre que eles pediram esse ano, queria pedir para o senhor me trazer um patinete no natal seria muito legal meu endereço é Avenida Vinte e Nove de Setembro, n458
+
+Papai noel eu sou a Cassia meu endereço é Rua Lopes Machado, n2751 gostaria de pedir para o senhor uma boneca polly
+
+Papai noel, eu quero te pedir por favor uma boneca polly eu moro na Rua Ipiranga, número 771
+
+Papai noel eu sou o Julio eu moro na Estrada da Felicidade, número 2827 esse natal eu gostaria de ganhar um celular se eu ganhar vou ficar muito muito feliz
+
+Oi Papai Noel, eu sou Sam, meu endereço é Rua Jose Dias, n609 esse ano tirei notas muito boas no colegio, acho que eu merecia ganhar uma bicicleta ou bola
+
+ola papai noel eu moro na Avenida Vinte e Nove de Setembro, número 2379 eu gostaria de ganhar um ponei
+
+Papai noel eu sou a Thayna moro na Avenida Vinte e Nove de Setembro, 3727 gostaria de pedir para o senhor um patinete
